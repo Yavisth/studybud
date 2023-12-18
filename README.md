@@ -8,7 +8,7 @@ git clone https://github.com/Yavisth/studybud
 
 --> Move into the project directory: 
 ```bash
-cd StudyBud
+cd studybud
 
 ```
 
